@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.png") no-repeat center;
+    background: url("./images/banner.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -216,7 +216,7 @@ section .title::after{
 /* about section styling */
 .about{
     display: flex;
-    background: url("images/banner9.png") no-repeat center; /* to put background image with no repeatition. It will ensure one section will have one background image */
+    background: url("./images/banner9.png") no-repeat center; /* to put background image with no repeatition. It will ensure one section will have one background image */
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -280,7 +280,7 @@ section .title::after{
 }
 .education{
     display: flex;
-    background: url("images/banner7.png") no-repeat center;
+    background: url("./images/banner7.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -323,7 +323,7 @@ section .title::after{
 /* skills section styling */
 .skills{
     display: flex;
-    background: url("images/banner8.png") no-repeat center;
+    background: url("./images/banner8.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -408,7 +408,7 @@ section .title::after{
 /* hobbies section styling */
 .hobbies{
     display: flex;
-    background: url("images/banner6.png") no-repeat center;
+    background: url("./images/banner6.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -482,7 +482,7 @@ section .title::after{
 /* contact section styling */
 .contact{
     display: flex;
-    background: url("images/banner4.png") no-repeat center;
+    background: url("./images/banner4.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
